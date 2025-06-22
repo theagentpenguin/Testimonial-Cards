@@ -1,0 +1,9 @@
+html{
+    background-color: beige;
+}
+
+.row1-box1{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
